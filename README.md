@@ -47,9 +47,13 @@ FROM (
 ORDER BY monthly_revenue DESC
 LIMIT 3;
 
+---
+
 📊 Results File
+
 The output of the SQL queries is saved in:
 📄 results.csv
 
 🖼️ Output Screenshot
+
 (Example Screenshot File Name: Screenshots/result.png
